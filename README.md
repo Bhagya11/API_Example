@@ -7,6 +7,9 @@ This is a simple Flask-based web app that fetches and displays real-time weather
 - https://www.visualcrossing.com/weather-query-builder/hyderabad/?v=api
 - Works for any city worldwide.
 - Backend powered by Flask.
+## To check with postman
+- https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/mumbai?unitGroup=metric&key=UUAGA45YSUSJEDC8T97PNC5KT&include=current&elements=datetime,temp,humidity,windspeed
+
 
 <img width="969" height="250" alt="1" src="https://github.com/user-attachments/assets/e8a2d4d4-f0df-47c1-978b-b9baee1d7ac9" />
 
