@@ -7,13 +7,12 @@ This is a simple Flask-based web app that fetches and displays real-time weather
 - Works for any city worldwide.
 - Backend powered by Flask.
 
-## 🔧 Setup Instructions
+<img width="969" height="250" alt="1" src="https://github.com/user-attachments/assets/e8a2d4d4-f0df-47c1-978b-b9baee1d7ac9" />
+
+
+
 <img width="874" height="597" alt="Screenshot 2025-07-24 155046" src="https://github.com/user-attachments/assets/015e1d7a-8bd8-41f9-a011-ec019da97277" />
 
-### 1. Clone the Repo
-```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
 
 
 
