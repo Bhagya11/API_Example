@@ -4,6 +4,7 @@ This is a simple Flask-based web app that fetches and displays real-time weather
 
 ## 📌 Features
 - Get current temperature, humidity, wind speed, and weather conditions.
+- https://www.visualcrossing.com/weather-query-builder/hyderabad/?v=api
 - Works for any city worldwide.
 - Backend powered by Flask.
 
