@@ -8,6 +8,6 @@ python app.py
 ```
 
 ## Output
-![image1.png](./image2.png)
-![image2.png](./image1.png)
+<img width="806" height="587" alt="image" src="https://github.com/user-attachments/assets/a1228efe-5dd6-4e81-81e3-edcc99792dd4" />
+
 
