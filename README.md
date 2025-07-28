@@ -14,8 +14,15 @@ This is a simple Flask-based web app that fetches and displays real-time weather
 <img width="969" height="250" alt="1" src="https://github.com/user-attachments/assets/e8a2d4d4-f0df-47c1-978b-b9baee1d7ac9" />
 
 
-
 <img width="874" height="597" alt="Screenshot 2025-07-24 155046" src="https://github.com/user-attachments/assets/015e1d7a-8bd8-41f9-a011-ec019da97277" />
+
+
+### Project 2
+
+<img width="1279" height="695" alt="image" src="https://github.com/user-attachments/assets/e76ef7cc-903f-43e4-989b-a44b8a3989fd" />
+
+
+
 
 
 
